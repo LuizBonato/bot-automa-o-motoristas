@@ -84,7 +84,7 @@ def pegar_dados_da_mensagem(mensagem):
 
 def ta_tudo_preenchido(dados):
     if dados['Tipo'] == "TAC":
-        return all([dados["Nome"], dados["CPF"], dados["Telefone"], dados["Cidade"], dados["Curso"]])
+        return all([dados["Nome"], dados["CPF"], dados["Telefone"], dados["Cidade"],])
     elif dados['Tipo'] == "Agregado":
         return all([dados["Nome"], dados["CPF"], dados["Telefone"], dados["Cidade"], dados["Placa"]])
     return False
