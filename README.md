@@ -1,5 +1,5 @@
  Bot de Automação de Motoristas - Projeto piloto
- Olá, me chamo Luiz e aspirante a dev que tá aprendendo a programar com Python e C# ao mesmo tempo (coragem né ). Esse repositório é meu projeto pessoal que desenvolvi pra ajudar no dia a dia da empresa onde eu trabalho com logística de motoristas.
+ Olá, me chamo Luiz Eduardo Bonato, esse repositório é meu projeto pessoal que desenvolvi pra ajudar no dia a dia da empresa onde eu trabalho com logística de motoristas.
 
  O que esse bot faz?
 
